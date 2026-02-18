@@ -1,0 +1,19 @@
+
+{
+  "short_name": "Vôlei Pro",
+  "name": "Vôlei Inscrição Pro",
+  "description": "Sistema de Inscrição de Atletas e Gestão de Equipes",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1e40af",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/889/889500.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
